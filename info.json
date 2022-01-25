@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1031.4703,
+    "videos": [
         "Duran Duran - Come Undone (Official Music Video)-Epj84QVw2rc.mp4",
         "A Quien No Le Gusta Eso-jIzz5aoqCoc.mp4",
         "Fanático de ti-QSaOdFg1SBM.mp4",
@@ -95,7 +96,5 @@
         "Grupo Accion Oaxaca Con Deseos.-db6gYY8AHqU.mp4",
         "Ghost of a Stranger-Ylecvo4P7HA.mp4",
         "Animals As Leaders 'CAFO' official music video-q0ZrF7taMHA.mp4"
-    ],
-    "id": "d1",
-    "total_size": 983.6865576171878
+    ]
 }
