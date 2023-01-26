@@ -114,6 +114,13 @@
             "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/Anorando Tus Besos-R2BSWnW8f-4.mp4?raw=true"
         },
         {
+            "id": "tLjOGD3KLA0",
+            "name": "Diego Verdaguer y Amanda Miguel - Simplemente Amor [Video Oficial]-tLjOGD3KLA0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d1/videos/Diego Verdaguer y Amanda Miguel - Simplemente Amor [Video Oficial]-tLjOGD3KLA0.mp4",
+            "size": 8.268001,
+            "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/Diego Verdaguer y Amanda Miguel - Simplemente Amor [Video Oficial]-tLjOGD3KLA0.mp4?raw=true"
+        },
+        {
             "id": "4vQuE9U7P9A",
             "name": "Fito y Fitipaldis - 09 Ojos de Serpiente-4vQuE9U7P9A.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d1/videos/Fito y Fitipaldis - 09 Ojos de Serpiente-4vQuE9U7P9A.mp4",
@@ -422,11 +429,25 @@
             "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/SUEÑOS COMPARTIDOS_ - LAUREANO BRIZUELA - 1987 (RM)-8O8oa_UTWqE.mp4?raw=true"
         },
         {
+            "id": "D9LopyqdzIw",
+            "name": "James Blunt - High (Official Music Video)-D9LopyqdzIw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d1/videos/James Blunt - High (Official Music Video)-D9LopyqdzIw.mp4",
+            "size": 9.258942,
+            "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/James Blunt - High (Official Music Video)-D9LopyqdzIw.mp4?raw=true"
+        },
+        {
             "id": "db6gYY8AHqU",
             "name": "Grupo Accion Oaxaca Con Deseos.-db6gYY8AHqU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d1/videos/Grupo Accion Oaxaca Con Deseos.-db6gYY8AHqU.mp4",
             "size": 14.256203999999999,
             "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/Grupo Accion Oaxaca Con Deseos.-db6gYY8AHqU.mp4?raw=true"
+        },
+        {
+            "id": "X-sBrKIBlgM",
+            "name": "CHUY VEGA - MANUEL DE LA VARA.wmv-X-sBrKIBlgM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d1/videos/CHUY VEGA - MANUEL DE LA VARA.wmv-X-sBrKIBlgM.mp4",
+            "size": 6.182969,
+            "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/CHUY VEGA - MANUEL DE LA VARA.wmv-X-sBrKIBlgM.mp4?raw=true"
         },
         {
             "id": "ONxwi_J8sZc",
@@ -478,6 +499,13 @@
             "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/Atrapado-9ZPDzSuwMs8.mp4?raw=true"
         },
         {
+            "id": "5NjJLFI_oYs",
+            "name": "VIDEOCLUB - Amour plastique (clip officiel)-5NjJLFI_oYs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d1/videos/VIDEOCLUB - Amour plastique (clip officiel)-5NjJLFI_oYs.mp4",
+            "size": 17.953654,
+            "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/VIDEOCLUB - Amour plastique (clip officiel)-5NjJLFI_oYs.mp4?raw=true"
+        },
+        {
             "id": "WC5FdFlUcl0",
             "name": "Audioslave - Be Yourself (Album Version, Closed Captioned)-WC5FdFlUcl0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/d1/videos/Audioslave - Be Yourself (Album Version, Closed Captioned)-WC5FdFlUcl0.mp4",
@@ -497,6 +525,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/d1/videos/Tayc - Le Temps (Clip Officiel)-mUTsvbridvM.mp4",
             "size": 16.898524,
             "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/Tayc - Le Temps (Clip Officiel)-mUTsvbridvM.mp4?raw=true"
+        },
+        {
+            "id": "CbQlPxJhBtk",
+            "name": "Los Apson - El Último Beso (letra)-CbQlPxJhBtk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/d1/videos/Los Apson - El Último Beso (letra)-CbQlPxJhBtk.mp4",
+            "size": 6.345765,
+            "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/Los Apson - El Último Beso (letra)-CbQlPxJhBtk.mp4?raw=true"
         },
         {
             "id": "WxTkLrN9zYI",
@@ -688,5 +723,5 @@
             "url": "https://github.com/circuitalmynds/music_d1/blob/main/videos/José Luis Rodríguez (el puma) - Te propongo separarnos-rKTPBq1kDyk.mp4?raw=true"
         }
     ],
-    "total_size": 1038.9863139999998
+    "total_size": 1086.9956449999997
 }
